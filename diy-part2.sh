@@ -17,3 +17,5 @@
 git clone https://github.com/2512500960/zzu-minieap-openwrt.git package/mini-eap
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/mentohust
 git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
+git clone https://github.com/ysc3839/openwrt-minieap.git package/minieap
+git clone https://github.com/ysc3839/luci-proto-minieap.git package/luci-proto-minieap
