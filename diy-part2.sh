@@ -14,7 +14,7 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
 
-git clone https://github.com/2512500960/zzu-minieap-openwrt.git package/mini-eap
+
 git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/mentohust
 git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
 git clone https://github.com/ysc3839/openwrt-minieap.git package/minieap
